@@ -1,0 +1,18 @@
+h1{
+    font-family: 'Dancing Script', cursive;
+    font-size: 5em !important;
+}
+
+.carousel-caption
+{
+    text-shadow: 0 0 10px #000;
+}
+
+.img-fit {
+    object-fit: cover;
+}
+
+h2, h3, h4, h5, h6{
+    color: rgb(75, 168, 255);
+    font-family: 'Crimson Text', serif;
+}
